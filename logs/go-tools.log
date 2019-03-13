@@ -1,0 +1,54 @@
+{"level":"info","time":"2019-03-10T13:06:56.545+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:07:10.011+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:07:10.011+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:07:10.011+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:07:10.012+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:07:10.012+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:20:31.607+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:20:36.263+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:35:59.406+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:38:15.773+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:38:46.513+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:38:46.514+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:38:57.122+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:39:04.028+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:39:04.029+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:39:42.731+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:39:42.732+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"common.logs"}
+{"level":"info","time":"2019-03-10T13:40:28.383+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:40:28.384+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:40:30.785+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:40:30.786+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:42:00.997+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"fatal","time":"2019-03-10T13:42:00.998+0800","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:43:10.109+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"fatal","time":"2019-03-10T13:43:10.110+0800","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:43:18.522+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"fatal","time":"2019-03-10T13:43:18.523+0800","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:43:37.568+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"fatal","time":"2019-03-10T13:43:37.568+0800","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:43:48.495+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:43:48.496+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:44:13.978+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"fatal","time":"2019-03-10T13:44:13.979+0800","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:47:14.225+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:47:22.962+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-10T13:47:22.963+0800","msg":"log 初始化成功","serviceName":"go-tools","traceId":"","logTag":"go-tools.core.logs"}
+{"level":"info","time":"2019-03-13T10:14:05.236+0800","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:14:05.237+0800","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:14:05.237+0800","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:18:01.978+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:18:01.979+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:18:01.979+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:01.294+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:01.295+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:01.295+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:07.906+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:07.907+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:07.907+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:98","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:19:07.908+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs_test.go:148","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"core.logs"}
+{"level":"warn","time":"2019-03-13T10:19:07.908+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs_test.go:179","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"core.logs"}
+{"level":"error","time":"2019-03-13T10:19:07.908+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs_test.go:210","msg":"传入参数a=1 b=2","serviceName":"go-tools","traceId":"","logTag":"core.logs"}
+{"level":"info","time":"2019-03-13T10:26:17.626+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:97","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:26:17.626+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:97","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
+{"level":"info","time":"2019-03-13T10:26:17.626+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/core/logs/logs.go:97","msg":"日志初始化成功","serviceName":"go-tools","traceId":"","logTag":""}
