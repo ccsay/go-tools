@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af455019-bd35-4316-9cf9-02ae99431e04" name="Default Changelist" comment="" />
+    <list default="true" id="af455019-bd35-4316-9cf9-02ae99431e04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qiniu/a6efce1b9d16fdfac33cef92b38f8c5494ee7b7d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qiniu/qiniu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/alisms/alisms.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/common/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/etcd/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/etcd/etcd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/etcd/etcdConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/etcd/etcdConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/etcd/etcdConfig_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/etcd/etcdConfig_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/etcd/etcd_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/etcd/etcd_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/filter/filter.go" beforeDir="false" afterPath="$PROJECT_DIR$/filter/filter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/logs/logs.go" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/logs/logsConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logsConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/logs/logsConfig_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logsConfig_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/logs/logs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/mysql/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/mysql/mysqlConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysqlConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/mysql/mysqlConfig_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysqlConfig_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/mysql/mysql_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/redis/redisConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redisConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/redis/redisConfig_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redisConfig_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/redis/redis_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/result/result.go" beforeDir="false" afterPath="$PROJECT_DIR$/result/result.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/token/jsonWebToken.go" beforeDir="false" afterPath="$PROJECT_DIR$/token/jsonWebToken.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/token/jsonWebTokenConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/token/jsonWebTokenConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/token/jsonWebToken_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/token/jsonWebToken_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/go-tools.log" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +47,7 @@
     <SUITE FILE_PATH="coverage/go_tools$go_test_mysql.out" NAME="go test mysql Coverage Results" MODIFIED="1552271445016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_tools$TestNewMysql_in_github_com_liuchonglin_go_tools_core_mysql.out" NAME="TestNewMysql in github.com/liuchonglin/go-tools/core/mysql Coverage Results" MODIFIED="1552271257208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_tools$TestNewRedis_in_github_com_liuchonglin_go_tools_core_redis.out" NAME="TestNewRedis in github.com/liuchonglin/go-tools/core/redis Coverage Results" MODIFIED="1552356907258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/go_tools$TestInit_in_github_com_liuchonglin_go_tools_logs.out" NAME="TestInit in github.com/liuchonglin/go-tools/logs Coverage Results" MODIFIED="1552458861301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_tools$TestGetRedisConfig_in_github_com_liuchonglin_go_tools_core_redis.out" NAME="TestGetRedisConfig in github.com/liuchonglin/go-tools/core/redis Coverage Results" MODIFIED="1552360616255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_tools$redis_test_go.out" NAME="redis_test.go Coverage Results" MODIFIED="1552356862443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_tools$TestGetMysqlConfig_in_github_com_liuchonglin_go_tools_core_mysql.out" NAME="TestGetMysqlConfig in github.com/liuchonglin/go-tools/core/mysql Coverage Results" MODIFIED="1552271431249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -38,54 +68,84 @@
     <session id="883970988">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="184" />
-          <entry key="log" value="4" />
+          <entry key="go" value="287" />
+          <entry key="jpg" value="2" />
+          <entry key="json" value="5" />
+          <entry key="log" value="5" />
           <entry key="s" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="184" />
-          <entry key="Log" value="4" />
+          <entry key="Go" value="287" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="5" />
+          <entry key="Log" value="5" />
           <entry key="x86 Plan9 Assembly" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="5725" />
+          <entry key="go" value="11872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="5725" />
+          <entry key="Go" value="11872" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".println" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/logs/logs.go">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sms/alisms/alisms.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="378">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/logs/logsConfig.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/mns/struct_message.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="108">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/encoding/base64/base64.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="373" column="21" selection-start-line="373" selection-start-column="21" selection-end-line="373" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sms/alisms/alisms_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -101,23 +161,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>l.</find>
-      <find>ctxValue</find>
-      <find>Development</find>
-      <find>development</find>
-      <find>encoderConfig</find>
-      <find>TraceIdKey</find>
-      <find>config.GetSystemConfig().MysqlConfig</find>
-      <find>logTag</find>
-      <find>valueNotJson</find>
-      <find>New()</find>
-      <find>FileLogger</find>
       <find>etcd *Etcd</find>
       <find>redis</find>
       <find>redisTool</find>
       <find>MysqlDB</find>
       <find>config</find>
       <find>logger</find>
+      <find>MyPutRet</find>
+      <find>UseHTTPS</find>
+      <find>key</find>
+      <find>fileName</find>
+      <find>saveKey</find>
+      <find>fetchRet</find>
+      <find>client</find>
+      <find>MessageType</find>
+      <find>QueryTokenForMnsQueueRequest</find>
+      <find>messageType</find>
+      <find>Alicom-Queue-1307199738792642-SmsReport</find>
+      <find>13152091594</find>
+      <find>18261381590</find>
+      <find>InitClientConfig</find>
+      <find>NewClientWithAccessKey</find>
+      <find>xml</find>
+      <find>WaitSeconds</find>
+      <find>token</find>
+      <find>threshold</find>
+      <find>The request timed out</find>
+      <find>queueName</find>
+      <find>request</find>
+      <find>DoActionWithSigner</find>
+      <find>************查看Erro</find>
     </findStrings>
     <replaceStrings>
       <replace>config</replace>
@@ -128,6 +201,9 @@
     </replaceStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,13 +223,26 @@
         <option value="$PROJECT_DIR$/core/token/jsonWebToken_test.go" />
         <option value="$PROJECT_DIR$/core/result/result.go" />
         <option value="$PROJECT_DIR$/core/common/common.go" />
-        <option value="$PROJECT_DIR$/core/token/jsonWebToken.go" />
         <option value="$PROJECT_DIR$/core/mysql/mysql.go" />
-        <option value="$PROJECT_DIR$/core/etcd/etcd.go" />
         <option value="$PROJECT_DIR$/core/logs/logs_test.go" />
-        <option value="$PROJECT_DIR$/core/filter/filter.go" />
         <option value="$PROJECT_DIR$/core/logs/logsConfig.go" />
         <option value="$PROJECT_DIR$/core/logs/logs.go" />
+        <option value="$PROJECT_DIR$/core/etcd/etcd.go" />
+        <option value="$PROJECT_DIR$/core/token/jsonWebToken.go" />
+        <option value="$PROJECT_DIR$/core/filter/filter.go" />
+        <option value="$PROJECT_DIR$/filter/filter.go" />
+        <option value="$PROJECT_DIR$/vendor/vendor.json" />
+        <option value="$PROJECT_DIR$/mysql/mysql_test.go" />
+        <option value="$PROJECT_DIR$/logs/logs_test.go" />
+        <option value="$PROJECT_DIR$/file/file.go" />
+        <option value="$PROJECT_DIR$/qiniu/file.go" />
+        <option value="$PROJECT_DIR$/qiniu/qiniu_test.go" />
+        <option value="$PROJECT_DIR$/qiniu/qiniu.go" />
+        <option value="$PROJECT_DIR$/logs/logsConfig.go" />
+        <option value="$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/config.go" />
+        <option value="$PROJECT_DIR$/sms/alisms/alisms_test.go" />
+        <option value="$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/mns/queue.go" />
+        <option value="$PROJECT_DIR$/sms/alisms/alisms.go" />
       </list>
     </option>
   </component>
@@ -168,11 +257,13 @@
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,73 +271,10 @@
               <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-tools" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="etcd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="token" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,6 +282,7 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -261,11 +290,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/qiniu" />
       <recent name="$PROJECT_DIR$/core" />
       <recent name="$PROJECT_DIR$/core/redis" />
       <recent name="$PROJECT_DIR$/core/etcd" />
       <recent name="$PROJECT_DIR$/core/mysql" />
-      <recent name="$PROJECT_DIR$/core/logs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,138 +312,139 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestInit in github.com/liuchonglin/go-tools/core/logs">
-    <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms">
+    <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-tools" />
-      <working_directory value="$PROJECT_DIR$/core/logs" />
+      <working_directory value="$PROJECT_DIR$/sms/alisms" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/liuchonglin/go-tools/core/logs" />
+      <package value="github.com/liuchonglin/go-tools/sms/alisms" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestInit$" />
+      <pattern value="^TestAliSms_Mns$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestJwt_CreateToken in github.com/liuchonglin/go-tools/core/token" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAliSms_SendSms in github.com/liuchonglin/go-tools/sms/alisms" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-tools" />
-      <working_directory value="$PROJECT_DIR$/core/token" />
+      <working_directory value="$PROJECT_DIR$/sms/alisms" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/liuchonglin/go-tools/core/token" />
+      <package value="github.com/liuchonglin/go-tools/sms/alisms" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestJwt_CreateToken$" />
+      <pattern value="^TestAliSms_SendSms$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLogsConfig_defaultValue in github.com/liuchonglin/go-tools/core/logs" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGet in github.com/liuchonglin/go-tools/qiniu" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-tools" />
-      <working_directory value="$PROJECT_DIR$/core/logs" />
+      <working_directory value="$PROJECT_DIR$/qiniu" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/liuchonglin/go-tools/core/logs" />
+      <package value="github.com/liuchonglin/go-tools/qiniu" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestLogsConfig_defaultValue$" />
+      <pattern value="^TestGet$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLogs_Debug in github.com/liuchonglin/go-tools/core/logs" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestUploadByFilePathAutoKey in github.com/liuchonglin/go-tools/qiniu" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-tools" />
-      <working_directory value="$PROJECT_DIR$/core/logs" />
+      <working_directory value="$PROJECT_DIR$/qiniu" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/liuchonglin/go-tools/core/logs" />
+      <package value="github.com/liuchonglin/go-tools/qiniu" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestLogs_Debug$" />
+      <pattern value="^TestUploadByFilePathAutoKey$" />
       <method v="2" />
     </configuration>
-    <configuration name="logs_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestUploadByUrlAutoKey in github.com/liuchonglin/go-tools/qiniu" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-tools" />
-      <working_directory value="$PROJECT_DIR$/core/logs" />
+      <working_directory value="$PROJECT_DIR$/qiniu" />
       <go_parameters value="-i" />
       <framework value="gotest" />
-      <kind value="FILE" />
-      <package value="github.com/liuchonglin/go-tools" />
+      <kind value="PACKAGE" />
+      <package value="github.com/liuchonglin/go-tools/qiniu" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/core/logs/logs_test.go" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUploadByUrlAutoKey$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Test.TestInit in github.com/liuchonglin/go-tools/core/logs" />
-      <item itemvalue="Go Test.TestLogsConfig_defaultValue in github.com/liuchonglin/go-tools/core/logs" />
-      <item itemvalue="Go Test.TestJwt_CreateToken in github.com/liuchonglin/go-tools/core/token" />
-      <item itemvalue="Go Test.logs_test.go" />
-      <item itemvalue="Go Test.TestLogs_Debug in github.com/liuchonglin/go-tools/core/logs" />
+      <item itemvalue="Go Test.TestUploadByUrlAutoKey in github.com/liuchonglin/go-tools/qiniu" />
+      <item itemvalue="Go Test.TestUploadByFilePathAutoKey in github.com/liuchonglin/go-tools/qiniu" />
+      <item itemvalue="Go Test.TestGet in github.com/liuchonglin/go-tools/qiniu" />
+      <item itemvalue="Go Test.TestAliSms_SendSms in github.com/liuchonglin/go-tools/sms/alisms" />
+      <item itemvalue="Go Test.TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestInit in github.com/liuchonglin/go-tools/core/logs" />
-        <item itemvalue="Go Test.TestLogs_Debug in github.com/liuchonglin/go-tools/core/logs" />
-        <item itemvalue="Go Test.logs_test.go" />
-        <item itemvalue="Go Test.TestJwt_CreateToken in github.com/liuchonglin/go-tools/core/token" />
-        <item itemvalue="Go Test.TestLogsConfig_defaultValue in github.com/liuchonglin/go-tools/core/logs" />
+        <item itemvalue="Go Test.TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" />
+        <item itemvalue="Go Test.TestAliSms_SendSms in github.com/liuchonglin/go-tools/sms/alisms" />
+        <item itemvalue="Go Test.TestGet in github.com/liuchonglin/go-tools/qiniu" />
+        <item itemvalue="Go Test.TestUploadByUrlAutoKey in github.com/liuchonglin/go-tools/qiniu" />
+        <item itemvalue="Go Test.TestUploadByFilePathAutoKey in github.com/liuchonglin/go-tools/qiniu" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 09m 43s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 17h 39m 56s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 14m 05s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_SendSms_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 17h 40m 33s.xml">
+      <configuration name="TestAliSms_SendSms in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 18m 01s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 17h 41m 24s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 19m 01s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_SendSms_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 17h 41m 45s.xml">
+      <configuration name="TestAliSms_SendSms in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="logs_test_go - 2019.03.13 at 10h 19m 07s.xml">
-      <configuration name="logs_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 17h 57m 09s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestLogs_Debug_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 23m 13s.xml">
-      <configuration name="TestLogs_Debug in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 18h 33m 01s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestLogs_Debug_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 23m 17s.xml">
-      <configuration name="TestLogs_Debug in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 19h 05m 19s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 23m 49s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 19h 06m 54s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 26m 10s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 19h 08m 00s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestInit_in_github_com_liuchonglin_go-tools_core_logs - 2019.03.13 at 10h 26m 17s.xml">
-      <configuration name="TestInit in github.com/liuchonglin/go-tools/core/logs" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestAliSms_Mns_in_github_com_liuchonglin_go-tools_sms_alisms - 2019.03.30 at 19h 09m 46s.xml">
+      <configuration name="TestAliSms_Mns in github.com/liuchonglin/go-tools/sms/alisms" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38313252" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21686748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31325302" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30843374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.16738197" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.16738197" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="5" side_tool="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -442,270 +475,348 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.go" />
-    <entry file="file://$PROJECT_DIR$/../../../go.uber.org/zap/level.go">
+    <entry file="file://$PROJECT_DIR$/logs/go-tools.log" />
+    <entry file="file://$PROJECT_DIR$/mysql/mysqlConfig.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="92">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../go.uber.org/zap/zapcore/core.go">
+    <entry file="file://$PROJECT_DIR$/mysql/mysql_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="242">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../go.uber.org/zap/logger.go">
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="982">
-          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+        <state relative-caret-position="146">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../go.uber.org/zap/options.go">
+    <entry file="file://$PROJECT_DIR$/vendor/vendor.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/builtin/builtin.go">
+    <entry file="file://$PROJECT_DIR$/token/jsonWebToken.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="226" column="5" selection-start-line="226" selection-start-column="5" selection-end-line="226" selection-end-column="5" />
+        <state relative-caret-position="234">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../gopkg.in/natefinch/lumberjack.v2/lumberjack.go">
+    <entry file="file://$PROJECT_DIR$/vendor/go.uber.org/zap/logger.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7930">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="267" column="5" lean-forward="true" selection-start-line="267" selection-start-column="5" selection-end-line="267" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../jinzhu/gorm/main.go">
+    <entry file="file://$PROJECT_DIR$/etcd/etcd_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="347">
+          <caret line="344" column="37" lean-forward="true" selection-start-line="344" selection-start-column="37" selection-end-line="344" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../go.etcd.io/etcd/clientv3/maintenance.go">
+    <entry file="file://$PROJECT_DIR$/logs/logs.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+        <state relative-caret-position="296">
+          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../go.etcd.io/etcd/clientv3/client.go">
+    <entry file="file://$PROJECT_DIR$/logs/logs_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="5634">
+          <caret line="323" column="20" selection-start-line="323" selection-start-column="20" selection-end-line="323" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../go-utils/commonutil.go">
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/util.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/zone.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/region.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/auth/qbox/qbox_auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/auth/credentials.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/mime/multipart/writer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="152" column="17" selection-start-line="152" selection-start-column="17" selection-end-line="152" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiniu/a6efce1b9d16fdfac33cef92b38f8c5494ee7b7d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="310" column="27" selection-start-line="310" selection-start-column="27" selection-end-line="310" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/token.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../go.etcd.io/etcd/pkg/stringutil/rand.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/bucket.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2189">
+          <caret line="429" column="21" lean-forward="true" selection-start-line="429" selection-start-column="21" selection-end-line="429" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/go/src/context/context.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="158" column="4" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+        <state relative-caret-position="194">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../liuchonglin.com/baseCms/common/common.go">
+    <entry file="file:///usr/local/go/src/bytes/reader.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="500">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
+    <entry file="file://$PROJECT_DIR$/qiniu/qiniu_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="2371" column="15" lean-forward="true" selection-start-line="2371" selection-start-column="15" selection-end-line="2371" selection-end-column="15" />
+        <state relative-caret-position="379">
+          <caret line="217" column="28" lean-forward="true" selection-start-line="217" selection-start-column="28" selection-end-line="217" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="781" selection-start-line="781" selection-end-line="781" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/etcd/etcdConfig_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/etcd/etcdConfig.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/etcd/etcd_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../go-utils/arrayutil/arrayutil.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/mysql/mysqlConfig.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/mysql/mysqlConfig_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/mysql/mysql_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/redis/redis_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/redis/redisConfig.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/redis/redisConfig_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/common/common.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/etcd/etcd.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/mysql/mysql.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/redis/redis.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/token/jsonWebToken_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/token/jsonWebTokenConfig.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/token/jsonWebToken.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/go-tools.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="362">
-          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/result/result.go">
+    <entry file="file://$PROJECT_DIR$/result/result.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/logs/logsConfig_test.go">
+    <entry file="file://$PROJECT_DIR$/filter/filter.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="144">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/logs/logs_test.go">
+    <entry file="file://$PROJECT_DIR$/etcd/etcd.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3878">
-          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state relative-caret-position="257">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="32" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/filter/filter.go">
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/client.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        <state relative-caret-position="199">
+          <caret line="485" column="18" selection-start-line="485" selection-start-column="15" selection-end-line="485" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/logs/logs.go">
+    <entry file="file://$PROJECT_DIR$/qiniu/qiniu.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/logs/logsConfig.go">
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/struct_message_token_dto.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="414">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/responses/response.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="92" column="41" lean-forward="true" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/requests/common_request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qiniu/api.v7/storage/form_upload.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="138" column="15" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/requests/rpc_request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="71" column="27" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsConfig.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etcd/etcdConfig.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/requests/roa_request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/query_token_for_mns_queue.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/requests/acs_request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/sdk/endpoints/mapping_resolver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/mns/queue.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/mns/batch_receive_message.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/encoding/base64/base64.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="373" column="21" selection-start-line="373" selection-start-column="21" selection-end-line="373" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../aliyun/alibaba-cloud-sdk-go/services/dybaseapi/mns/struct_message.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/alisms/alisms_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/alisms/alisms.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>

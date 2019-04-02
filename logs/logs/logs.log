@@ -1,0 +1,6 @@
+{"level":"info","time":"2019-03-13T14:38:54.130+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:156","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
+{"level":"warn","time":"2019-03-13T14:38:54.131+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:189","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
+{"level":"error","time":"2019-03-13T14:38:54.131+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:222","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
+{"level":"info","time":"2019-03-13T14:39:04.672+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:156","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
+{"level":"warn","time":"2019-03-13T14:39:04.672+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:189","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
+{"level":"error","time":"2019-03-13T14:39:04.672+0800","caller":"/Users/lcl/go/src/github.com/liuchonglin/go-tools/logs/logs_test.go:222","msg":"传入参数a=1 b=2","serviceName":"logs","traceId":"","logTag":"core.logs"}
